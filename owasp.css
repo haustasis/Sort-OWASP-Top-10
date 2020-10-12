@@ -99,6 +99,7 @@ p {
   padding: 10px 20px;
   cursor: progress;
   width: 100%;
+  border-radius: 10px;
 }
 
 .check-btn:active {
