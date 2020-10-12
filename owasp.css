@@ -69,11 +69,13 @@ p {
   margin: 0 20px 0 0;
 }
 
-.draggable-list li.right .security-name {
+.draggable-list li.right .security-name,
+.draggable-list li.right .fas {
   color: #3ae374;
 }
 
-.draggable-list li.wrong .security-name {
+.draggable-list li.wrong .security-name,
+.draggable-list li.wrong .fas {
   color: #ff3838;
 }
 
